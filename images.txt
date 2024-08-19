@@ -13,3 +13,4 @@ jenkins/jenkins:lts-jdk17
 nextcloud
 postgres:16-bookworm
 portainer/portainer-ce
+dbgate/dbgate:alpine
