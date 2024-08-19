@@ -14,3 +14,4 @@ nextcloud
 postgres:16-bookworm
 portainer/portainer-ce
 dbgate/dbgate:alpine
+ghcr.io/mastodon/mastodon:latest
