@@ -15,3 +15,7 @@ postgres:16-bookworm
 portainer/portainer-ce
 dbgate/dbgate:alpine
 ghcr.io/mastodon/mastodon:latest
+moelin/1panel:latest
+gitea/gitea:latest
+ghcr.io/docker-mailserver/docker-mailserver:latest
+drakkan/sftpgo:latest
