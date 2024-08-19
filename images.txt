@@ -2,9 +2,14 @@ nginx
 superng6/qbittorrentee
 freshrss/freshrss
 mariadb:lts
+--platform=linux/arm64 mariadb:lts
 xhofe/alist:latest
 itzg/minecraft-server
 ngc7331/mcsmanager-daemon
 ngc7331/mcsmanager-web
 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
+jenkins/jenkins:lts-jdk17
+nextcloud
+postgres:16-bookworm
+portainer/portainer-ce
