@@ -4,6 +4,8 @@ dbgate/dbgate:alpine
 ghcr.io/docker-mailserver/docker-mailserver:latest
 freshrss/freshrss
 gitea/gitea:latest
+homeassistant/home-assistant
+--platform=linux/arm64 homeassistant/home-assistant
 jenkins/jenkins:lts-jdk17
 mariadb:lts
 --platform=linux/arm64 mariadb:lts
