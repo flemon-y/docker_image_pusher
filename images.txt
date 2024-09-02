@@ -21,3 +21,4 @@ postgres:16-bookworm
 portainer/portainer-ce
 superng6/qbittorrentee
 drakkan/sftpgo:latest
+xeath/1panel-in-docker:latest
