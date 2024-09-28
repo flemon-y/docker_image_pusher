@@ -22,3 +22,4 @@ portainer/portainer-ce
 superng6/qbittorrentee
 drakkan/sftpgo:latest
 xeath/1panel-in-docker:latest
+uozi/nginx-ui:latest
