@@ -13,6 +13,9 @@ ghcr.io/mastodon/mastodon:latest
 ngc7331/mcsmanager-daemon
 ngc7331/mcsmanager-web
 itzg/minecraft-server
+--platform=linux/arm64 itzg/minecraft-server
+itzg/minecraft-server:java-17
+--platform=linux/arm64 itzg/minecraft-server:java-17
 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
 nextcloud
@@ -25,3 +28,5 @@ superng6/qbittorrentee
 drakkan/sftpgo:latest
 xeath/1panel-in-docker:latest
 uozi/nginx-ui:latest
+frooodle/s-pdf
+--platform=linux/arm64 frooodle/s-pdf
