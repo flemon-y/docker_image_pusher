@@ -14,8 +14,8 @@ ngc7331/mcsmanager-daemon
 ngc7331/mcsmanager-web
 itzg/minecraft-server
 --platform=linux/arm64 itzg/minecraft-server
-itzg/minecraft-server:java-17
---platform=linux/arm64 itzg/minecraft-server:java-17
+itzg/minecraft-server:java17
+--platform=linux/arm64 itzg/minecraft-server:java17
 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
 nextcloud
