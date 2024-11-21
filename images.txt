@@ -21,6 +21,7 @@ itzg/minecraft-server:java17
 --platform=linux/arm64 itzg/minecraft-server:java17
 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
+m--platform=linux/arm64 adeofpendletonwool/pinepods:latest
 nextcloud
 nginx:1.27.0-alpine
 --platform=linux/arm64 nginx:1.27.0-alpine
@@ -35,5 +36,6 @@ superng6/qbittorrentee
 drakkan/sftpgo:latest
 xeath/1panel-in-docker:latest
 uozi/nginx-ui:latest
+--platform=linux/arm64 uozi/nginx-ui:latest
 frooodle/s-pdf
 --platform=linux/arm64 frooodle/s-pdf
