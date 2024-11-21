@@ -3,6 +3,7 @@ xhofe/alist:latest
 dbgate/dbgate:alpine
 ghcr.io/docker-mailserver/docker-mailserver:latest
 freshrss/freshrss
+--platform=linux/arm64 freshrss/freshrss
 gitea/gitea:latest
 homeassistant/home-assistant
 --platform=linux/arm64 homeassistant/home-assistant
@@ -20,8 +21,9 @@ itzg/minecraft-server:java21-alpine
 itzg/minecraft-server:java17
 --platform=linux/arm64 itzg/minecraft-server:java17
 deluan/navidrome:latest
+--platform=linux/arm64 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
-m--platform=linux/arm64 adeofpendletonwool/pinepods:latest
+--platform=linux/arm64 madeofpendletonwool/pinepods:latest
 nextcloud
 nginx:1.27.0-alpine
 --platform=linux/arm64 nginx:1.27.0-alpine
