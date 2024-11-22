@@ -1,6 +1,7 @@
 xhofe/alist:latest
 --platform=linux/arm64 xhofe/alist:latest
 dbgate/dbgate:alpine
+--platform=linux/arm64 dbgate/dbgate:alpine
 ghcr.io/docker-mailserver/docker-mailserver:latest
 freshrss/freshrss
 --platform=linux/arm64 freshrss/freshrss
