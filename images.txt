@@ -34,6 +34,8 @@ node:20.18.0-alpine
 node:20.12.2-alpine3.18
 portainer/portainer-ce
 --platform=linux/arm64 portainer/portainer-ce
+6053537/portainer-ce
+--platform=linux/arm64 6053537/portainer-ce
 superng6/qbittorrentee
 --platform=linux/arm64 superng6/qbittorrentee
 drakkan/sftpgo:latest
