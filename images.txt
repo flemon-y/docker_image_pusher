@@ -36,8 +36,8 @@ portainer/portainer-ce
 --platform=linux/arm64 portainer/portainer-ce
 6053537/portainer-ce
 --platform=linux/arm64 6053537/portainer-ce
-superng6/qbittorrentee
---platform=linux/arm64 superng6/qbittorrentee
+rogunt/qbittorrentee
+--platform=linux/arm64 rogunt/qbittorrentee
 drakkan/sftpgo:latest
 xeath/1panel-in-docker:latest
 uozi/nginx-ui:latest
