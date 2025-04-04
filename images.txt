@@ -24,7 +24,6 @@ itzg/minecraft-server:java17
 deluan/navidrome:latest
 --platform=linux/arm64 deluan/navidrome:latest
 madeofpendletonwool/pinepods:latest
---platform=linux/arm64 madeofpendletonwool/pinepods:latest
 nextcloud
 nginx:1.27.0-alpine
 --platform=linux/arm64 nginx:1.27.0-alpine
