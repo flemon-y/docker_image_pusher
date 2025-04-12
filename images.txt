@@ -43,3 +43,5 @@ uozi/nginx-ui:latest
 --platform=linux/arm64 uozi/nginx-ui:latest
 frooodle/s-pdf
 --platform=linux/arm64 frooodle/s-pdf
+yobasystems/alpine-mariadb
+--platform=linux/arm64 yobasystems/alpine-mariadb
